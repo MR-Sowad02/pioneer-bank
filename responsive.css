@@ -1,0 +1,183 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+}
+
+
+/* Extra small Device. */
+@media (max-width: 767px) {}
+
+/* SM Small Device :575px. */
+@media (min-width: 500px) and (max-width: 575px) {
+
+     .status {
+          margin-bottom: 20px;
+     }
+
+}
+
+
+
+/* SM Small Device :480px. */
+@media only screen and (max-width: 480px) {}
+
+
+/* Small Device :414px. */
+@media only screen and (max-width: 414px) {
+
+     #login-area h1 {
+          font-size: 38px;
+          line-height: 38px;
+     }
+
+     .status {
+          margin: 0 0;
+          margin-bottom: 15px;
+     }
+
+     .status h5 {
+          font-size: 25px;
+     }
+
+     .status h2 {
+          font-size: 24px;
+     }
+
+     .submit-area {
+          margin-top: 50px;
+          padding: 25px;
+     }
+
+     .submit-area h4 {
+          font-size: 30px;
+          margin-bottom: 20px;
+     }
+
+}
+
+/* Small Device :375px. */
+@media only screen and (max-width: 375px) {
+
+
+
+}
+
+
+/* Small Device :360px. */
+@media only screen and (max-width: 360px) {
+
+     #login-area h1 {
+          font-size: 25px;
+          line-height: 30px;
+     }
+
+     .status {
+          margin: 0 0;
+          margin-bottom: 15px;
+     }
+
+     .submit-area {
+          margin-top: 35px;
+          padding: 20px;
+     }
+
+     .submit-area h4 {
+          font-size: 20px;
+          margin-bottom: 20px;
+     }
+
+
+}
+
+
+
+/* Small Device :320px. */
+@media only screen and (max-width: 320px) {
+
+     #login-area h1 {
+          font-size: 29px;
+          line-height: 30px;
+     }
+
+     .status {
+          margin: 0 0;
+          margin-bottom: 15px;
+     }
+
+     .status h5 {
+          font-size: 20px;
+     }
+
+     .status h2 {
+          font-size: 22px;
+     }
+
+     .submit-area {
+          margin-top: 35px;
+          padding: 15px;
+     }
+
+     .submit-area h4 {
+          font-size: 20px;
+          margin-bottom: 20px;
+     }
+
+
+}
+
+
+/* Small Device :280px. */
+@media only screen and (max-width: 280px) {
+
+     #login-area h1 {
+          font-size: 17px;
+          line-height: 22px;
+     }
+
+     .status {
+         margin: 0 0;
+         margin-bottom: 15px;
+     }
+
+     .status h5 {
+         font-size: 13px;
+     }
+
+     .status h2 {
+         font-size: 15px;
+     }
+
+     .submit-area {
+         margin-top: 35px;
+         padding: 15px;
+     }
+
+     .submit-area h4 {
+         font-size: 13px;
+         margin-bottom: 15px;
+     }
+
+     input {
+         margin-bottom: -8px;
+     }
+
+     .btn-success {
+         font-size: 7px;
+     }
+
+
+
+
+}
